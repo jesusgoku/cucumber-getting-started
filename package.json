@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "node_modules/.bin/cucumber-js"
+  },
+  "devDependencies": {
+    "cucumber": "^4.2.1"
+  }
+}
